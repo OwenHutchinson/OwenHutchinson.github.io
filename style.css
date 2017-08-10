@@ -8,6 +8,17 @@ h1 {
   color: white;
   text-allign: center;
 }
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
 p {
   font-family: Lucida Console, sans-serif;
